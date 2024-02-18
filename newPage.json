@@ -409,7 +409,7 @@
                                                                 "borderWidth": "4",
                                                                 "borderRadius": "10",
                                                                 "delay": 0,
-                                                                "array": "{{\n\t!launch.data?.isError &&\n\t\tlaunch.data\n}}",
+                                                                "array": "{{\n\t!launch.data?.isError && launch.data\n}}",
                                                                 "classStyle": "carousel",
                                                                 "type": "CAROUSEL_WIDGET",
                                                                 "hideCard": false,
